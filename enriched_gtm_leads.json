@@ -1,0 +1,14 @@
+[
+    {
+        "company_name": "Zomato",
+        "fintech_use_case": "Automated split-payouts for marketplace vendors, route optimization bonuses, and instant courier wallet disbursements.",
+        "lead_score": "High",
+        "personalized_outbound_hook": "Hi team at Zomato, we noticed your complex transactional workflow setup via https://zomato.com. Razorpay can streamline your margins by optimizing your exact flow for: automated split-payouts for marketplace vendors."
+    },
+    {
+        "company_name": "Dukaan",
+        "fintech_use_case": "Seamless merchant onboarding APIs, customizable checkout gateways, and instant transaction settlements.",
+        "lead_score": "High",
+        "personalized_outbound_hook": "Hi team at Dukaan, we noticed your complex transactional workflow setup via https://mydukaan.io. Razorpay can streamline your margins by optimizing your exact flow for: seamless merchant onboarding apis."
+    }
+]
