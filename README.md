@@ -14,7 +14,7 @@ The application executes a three-stage asynchronous pipeline to convert messy we
 [Target URL] ---> [Jina Reader API] ---> [Raw Markdown Context]
 |
 [SQLite Database] <--- [Validated JSON] <--- [Groq Engine (Llama 3.1)]
-
+![Pipeline Dashboard Preview](dashboard.jpg)
 
 ### Core Component Engineering
 
